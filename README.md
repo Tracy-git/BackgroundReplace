@@ -15,7 +15,7 @@
 
 
 ## 环境
-1. python == 3.6
+1. python==3.6
 1. PyMatting==1.1.2
 2. torchvision==0.8.0
 3. torch==1.7.0+cu101
@@ -28,11 +28,12 @@
 - [权重下载](https://pan.baidu.com/s/1Q7MQMpQLcyQjkVvXxHANxQ) 提取码：trac
 - [项目地址](https://pan.baidu.com/s/1esHpKM1um4Gi-8ry2L2aJw) 提取码：trac 
 
-## 用法
+## 用法（新手不会操作，见我的B站视频）
 
 1. 下载权重（链接见下载）
 2. 下载项目文件，将权重放入model文件夹中
 3. 在命令提示符页，输入python matting.py ，跳出选择图片框，选择要换底的证件照，然后确定，等待几秒，选择底色，直到提示转换完成。
+
 
 
 
